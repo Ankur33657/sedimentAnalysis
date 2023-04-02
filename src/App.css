@@ -1,0 +1,87 @@
+.Navbar{
+/* position: fixed; */
+top: 0%;
+z-index: 3;  
+padding: 5px;
+/* margin: 5px; */
+background-color:rgb(0, 0, 0);
+text-decoration-color: rgb(255, 255, 255);
+
+}
+.Navbar ul li a{
+  color: rgb(250, 248, 248);
+  text-decoration: none;
+  font-size: medium;
+  font-weight: 600;
+  text-shadow: 0px;
+}
+.Navbar ul li a:hover{
+color: red;
+}
+div.form
+{
+    display: block;
+    text-align: center;
+}
+.form-body {
+  margin-top: 5%;
+  margin-left: 32.5%;
+  margin-right:32.5%;
+  width: 35%;
+}
+body {
+  /* background-image: url(https://media.sketchfab.com/models/ccdbe54cc30f4666930203d5ff3cb70c/thumbnails/cdfedd6160de410caff1b0629d2203b8/c81d0e7b39f64a9eb258393f388d51e9.jpeg); */
+  background-color: rgb(255, 255, 255);
+  background-size: cover;
+  color: rgb(3, 2, 0);
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  margin-bottom: 40px;
+}
+
+label {
+  color:rgb(3, 2, 0);
+}
+
+.btn-send {
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  width: 80%;
+  margin-left: 3px;
+  }
+.help-block.with-errors {
+  color: #ff5050;
+  margin-top: 5px;
+
+}
+
+.card{
+margin-left: 10px;
+margin-right: 10px;
+}
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #e72828;
+}
+.vh-100{
+  background-color: #eee;
+  
+}
+.list{
+color: rgb(251, 140, 4);
+}
+body{background-image: url("https://coolbackgrounds.io/images/backgrounds/white/white-unsplash-9d0375d2.jpg")}.card{border:none}.product{background-color: #ffffff}.brand{font-size: 13px}.act-price{color:red;font-weight: 700}.dis-price{text-decoration: line-through}.about{font-size: 14px}.color{margin-bottom:10px}label.radio{cursor: pointer}label.radio input{position: absolute;top: 0;left: 0;visibility: hidden;pointer-events: none}label.radio span{padding: 2px 9px;border: 2px solid #ff0000;display: inline-block;color: #ff0000;border-radius: 3px;text-transform: uppercase}label.radio input:checked+span{border-color: #ff0000;background-color: #ff0000;color: #fff}.btn-danger{background-color: #ff0000 !important;border-color: #ff0000 !important}.btn-danger:hover{background-color: #da0606 !important;border-color: #da0606 !important}.btn-danger:focus{box-shadow: none}.cart i{margin-right: 10px}
+
